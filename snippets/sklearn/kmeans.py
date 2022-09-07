@@ -2,6 +2,8 @@
 # date: Wed 7 Sep 2022
 # requires plotly and scikit-learn:
 #  pip install plotly scikit-learn
+# scikit learn documentation:
+#   https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 from sklearn.cluster import KMeans
 
 import plotly.express as px
